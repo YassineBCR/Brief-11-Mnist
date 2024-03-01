@@ -16,8 +16,13 @@ III] Enfin, on va créer un site qui va prendre une photo avec la webcam, puis i
 - Un notebook pour l'OCR
 - Un site Web
 
-            Comment executer mon code ? 
+                                    Comment executer mon code ? 
+            Dans mon Repo Github vous trouverez tout le neccesaire pour faire fonctionner mon code 
+- Bien relier les chemin d'accés a vos data
+- Executer les cellules :)
+                                    ATTENTON !
 
-Dans mon Repo Github vous trouverez tout le neccesaire pour faire fonctionner mon code 
-Dans le dossier Site tout le neccesaire pour genéré des images qui serviront de data pour les model directement avec mon site 
-Dans le dossier training les 3 notebook pour entrenais les model 
+  Pensez a bien verifier que vous ayez tout les import install avec le 'pip install'
+
+                                    Merci a vous :)
+  
